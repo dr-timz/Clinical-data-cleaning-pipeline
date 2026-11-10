@@ -1,6 +1,6 @@
 # Clinical Data Cleaning & Tidy Transformation Pipeline
 
-> Pipeline de préparation, fiabilisation et standardisation de données de santé (données cliniques brutes vers format Tidy) sous contraintes physiologiques.
+Pipeline de préparation, fiabilisation et standardisation de données de santé (données cliniques brutes vers format Tidy) sous contraintes physiologiques.
 
 ---
 
