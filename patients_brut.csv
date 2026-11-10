@@ -1,0 +1,21 @@
+ID_Patient;Sexe;Age;Taille (cm);Poids_kg_Janv;Poids_lb_Juin;Glycemie1;Glycemie2;Glycemie_Unite;Tension_sys_Tension_dia;maladie
+001;H;41;157;55;174;1.1;90;mmol/L;112/62;diabete
+002;F;21;161;53;;1.0;105;mmol/L;138/65;diabete, HTA
+003;H;43;175;78;174;100.0;110;mmol/L;107/86;HTA, IRC
+004;H;63;163;67;174;100.0;105;mmol/L;120-80;diabete
+005;homme;49;172;75;118;105.0;110;mmol/L;141/83;diabete, IRC
+006;F;57;158;83;140lbs;5.6;110;g/L;114/91;IRC, HTA
+007;H;21;179;59;;1.2;100;mmol/L;131/83;Asthme
+008;H;40;168;85;174;1,05;110;mmol/L;140/71;diabete, HTA, IRC
+009;H;52;163;63;169;6.0;105;g/L;138/61;IRC, diabete, HTA
+010;F;31;180;80;169;1.2;110;mmol/L;102/76;
+011;H;trente-cinq;156;64;;1.0;100;g/L;148/61;HTA, IRC
+012;H;63;174;57;118;1.2;100;g/L;101/87;diabete
+013;H;44;182;80kg;138;5.6;105;mmol/L;122/91;diabete, IRC
+014;H;168;161;72;180;1.2;95;g/L;132/60;IRC, HTA
+015;feminin;46;162;89;154;1.0;95;g/L;118/61;Asthme
+016;H;61;189;70;180;5.6;110;g/L;143/85;
+017;F;47;168;65;198;100.0;90;g/L;131/65;IRC, diabete, HTA
+018;F;35;171;67;154;100.0;110;mmol/L;131/63;diabete, IRC
+019;F;34;158;73;198;110.0;105;g/L;110/76;diabete, IRC
+020;H;66;156;75;174;1.2;105;mmol/L;137/83;
